@@ -1,0 +1,67 @@
+{
+  "doojesh": {
+    "agent_id": "10",
+    "username": "doojesh",
+    "full_name": "Doojesh Baichu",
+    "email": "amleshb@gmail.com",
+    "phone": "57646263",
+    "clearance_level": "Top Secret",
+    "role": "Analyst",
+    "status": "Active",
+    "last_login": null,
+    "hashed_password": "$2b$12$hs4LFIVU0o/.UnpjsZxLU.qG.SBV4D2rJUFhRIdzPkhfG0cHuc3r2",
+    "tasks": []
+  },
+  "brinda": {
+    "agent_id": "20",
+    "username": "brinda",
+    "full_name": "Brinda Baichu",
+    "email": "brinda@gmail.com",
+    "phone": "57646265",
+    "clearance_level": "Confidential",
+    "role": "Field Agent",
+    "status": "Active",
+    "last_login": null,
+    "hashed_password": "$2b$12$buqIjRk65jmosiashohtR.HIAo.FId.s5U580.iDyvl9pjT/gxkbu",
+    "tasks": []
+  },
+  "liyansh": {
+    "agent_id": "300",
+    "username": "liyansh",
+    "full_name": "",
+    "email": "",
+    "phone": "",
+    "clearance_level": "",
+    "role": "",
+    "status": "Active",
+    "last_login": null,
+    "hashed_password": "$2b$12$mnXTwiaKZysVgaTFE9WdE.TufTCVEy/b8CJfeRz6mU.ZwvG0enz9a",
+    "tasks": []
+  },
+  "kool": {
+    "agent_id": "400",
+    "username": "kool",
+    "full_name": "Kool Kool",
+    "email": "kool@gmail.com",
+    "phone": "5646869",
+    "clearance_level": "Secret",
+    "role": "Analyst",
+    "status": "Active",
+    "last_login": null,
+    "hashed_password": "$2b$12$VCO0XuMLGAWm8X2x/Te5U.MzC5aDfzta2mIyHWixbMQdcZq7JdsnG",
+    "tasks": []
+  },
+  "lool": {
+    "agent_id": "500",
+    "username": "lool",
+    "full_name": "Lool Lool",
+    "email": "lool@gmail.com",
+    "phone": "5646964",
+    "clearance_level": "Secret",
+    "role": "Analyst",
+    "status": "Active",
+    "last_login": null,
+    "hashed_password": "$2b$12$o8onU5yOsuNVbSeYmvM4Ge6L3RpJNuS4AZkQLv2L6tLzEtxaE10Dy",
+    "tasks": []
+  }
+}
